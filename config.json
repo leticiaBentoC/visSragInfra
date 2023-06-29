@@ -1,0 +1,7 @@
+{
+	"dataset_2019": "./dados/srag_2019.csv",
+	"dataset_2020": "./dados/srag_2020.csv",
+	"dataset_2021": "./dados/srag_2021.csv",
+	"dataset_2022": "./dados/srag_2022.csv",
+	"dataset_2023": "./dados/srag_2023.csv"
+}
